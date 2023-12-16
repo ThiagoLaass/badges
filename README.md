@@ -1,2 +1,1 @@
 # bagdes
-badges, github
