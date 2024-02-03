@@ -1,1 +1,2 @@
-let badge = "obtained"
+let badge = true
+
